@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC74VHC1GT04DFT2G
+D Balanced Propagation Delays; Low Power Dissipation: ICC = 1A (Max) at TA = 25C; Pin and Function Compatible with Other Standard Logic Families; TTL-Compatible Inputs: VIL = 0.8V; VIH = 2.0V; CMOS-Compatible Outputs: VOH > 0.8VCC ; VOL < 0.1VCC @Load; Power Down Protection Provided on Inputs and Outputs; High Speed: tPD = 4.5ns (Typ) at VCC = 5V; Designed for 2.0 V to 5.5 V VCC Operation; Chip Complexity: FETs =  100; Pb-Free Packages are Available
+K
+F https://www.onsemi.com/pub/Collateral/MC74VHC1G04-D.PDF
+$ENDCMP
+#
+#End Doc Library
