@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BFP420
+D RF Small Signal Bipolar Transistor, 0.035A I(C), 1-Element, L Band, Silicon, NPN
+K
+F https://www.infineon.com/dgdl/Infineon-BFP420-DataSheet-v03_00-EN.pdf?fileId=5546d462689a790c01690f0339bc3912
+$ENDCMP
+#
+#End Doc Library

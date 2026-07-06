@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC74VHC1GT14DBVT1G
+D CMOS-Compatible Outputs: VOH > 0.8VCC ; VOL < 0.1VCC @ Load; High Speed: tPD = 3.5ns (Typ) at VCC = 5V; Low Power Dissipation: ICC = 1A (Max) at TA = 25C; TTL-Compatible Inputs: VIL = 0.8V; VIH = 2.0V; Pin and Function Compatible with Other Standard Logic Families; Balanced Propagation Delays; Power Down Protection Provided on Inputs and Outputs; Pb-Free Packages are Available; Designed for 1.65 V to 5.5 V Vcc Operation
+K
+F https://www.onsemi.com/pub/Collateral/MC74VHC1G14-D.PDF
+$ENDCMP
+#
+#End Doc Library
