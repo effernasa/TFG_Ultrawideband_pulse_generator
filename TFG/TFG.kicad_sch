@@ -6165,7 +6165,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "637c37e9-12ab-41ad-8ab7-36fe02d52c61")
-		(property "Reference" "BFG135A1"
+		(property "Reference" "BFR35AP"
 			(at 165.1 102.8699 0)
 			(effects
 				(font
@@ -6183,7 +6183,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 165.1 101.6 0)
 			(effects
 				(font
@@ -6222,7 +6222,7 @@
 		(instances
 			(project "TFG"
 				(path "/f38180f0-5f14-4552-a9c5-56b7688c9594"
-					(reference "BFG135A1")
+					(reference "BFR35AP")
 					(unit 1)
 				)
 			)
