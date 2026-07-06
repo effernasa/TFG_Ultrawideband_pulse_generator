@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MA144769-287T
+D Varactors Single 30 V Surface Mount SOT-23
+K
+F https://cdn.macom.com/datasheets/MA144769-287_MAVR-044769-1279.pdf
+$ENDCMP
+#
+#End Doc Library

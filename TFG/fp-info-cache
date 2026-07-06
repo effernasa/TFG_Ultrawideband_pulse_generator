@@ -1,4 +1,4 @@
-23885440749852596
+23889007499757435
 74HC04S14-13
 SO14_DIO
 
@@ -64826,6 +64826,13 @@ Integrated Circuit
 0
 4
 4
+MA144769-287T
+MA144769287T
+SOT-23(Case Style 287)
+Diode
+0
+3
+3
 MC74VHC1GT04DFT2G
 SOT65P210X110-5N
 SC-88A
@@ -89158,6 +89165,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SMS3923-079LF
+SODFL1608X70N
+SC-79
+Schottky Diode
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf

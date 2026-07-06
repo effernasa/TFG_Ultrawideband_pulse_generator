@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMS3923-079LF
+D Schottky Diodes & Rectifiers Ls=.7nH SC-79 Single SMS392x Series: Surface-Mount General-Purpose Schottky Diode
+K
+F https://www.digikey.com/htmldatasheets/production/544661/0/0/1/sms392x-series.html
+$ENDCMP
+#
+#End Doc Library
